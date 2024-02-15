@@ -3,4 +3,7 @@
     <string name="start_count_value">0</string>
     <string name="square_not_calculated">Not calculated</string>
     <string name="calculate_square_button">Calculate square</string>
+    <string name="back">Back</string>
+    <string name="square_activity_head">The square of the current number</string>
+    <string name="main_activity_head">Number</string>
 </resources>
